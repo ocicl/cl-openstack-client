@@ -1,0 +1,10 @@
+* cl-openstack-client
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://opendev.org/x/cl-openstack-client.git   |
+| commit  |   |
+| systems | cl-openstack-client |
+|---------+-------------------------------------------|
+
