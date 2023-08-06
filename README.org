@@ -2,9 +2,8 @@
 
 
 
-7065f81---------+-------------------------------------------|
-7065f81 source  | git:https://opendev.org/x/cl-openstack-client.git   |
-7065f81 commit  |   |
-7065f81 systems | cl-openstack-client |
-7065f81---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://opendev.org/x/cl-openstack-client.git |
+| commit  | 7065f81                                           |
+| systems | cl-openstack-client                               |
+|---------+---------------------------------------------------|
